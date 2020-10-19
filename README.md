@@ -11,14 +11,11 @@
 #### Initialise a new Node project
 > $ npm init -y
 
-#### Install hapi.js
-> $ npm init hapi
+#### fork and clone the repo
+> $ git clone https://github.com/abhishek2x/hapi-api
 
-#### Create a new server file
-> $ touch index.js
-
-#### Install nodemon
-> $ npm i nodemon -g
+#### Install dependencies
+> $ npm i 
 
 #### Run server with nodemon
 > $ nodemon index.js
